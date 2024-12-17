@@ -15,7 +15,7 @@ Masuk dalam folder, klik kanan, klik "Show more options", klik Git Bash Here
 #Hanya tambah, jangan hapus \
 #Taruh File figma kumpulan halaman di dalam folder Figma 
 
-// Dalam Git Bash
+// Dalam Git Bash \
 git add . \
 git commit -m "TULIS APA YANG DITAMBAHKAN - (Nama Yang Upload)" \
 git push origin Nama-Panggilan-Yang-Jadi-Nama-Branch 
