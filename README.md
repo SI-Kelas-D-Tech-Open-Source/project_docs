@@ -1,11 +1,11 @@
-Buat Folder baru
-Masuk dalam folder, klik kanan, klik "Show more options", klik Git Bash Here
+Buat Folder baru \
+Masuk dalam folder, klik kanan, klik "Show more options", klik Git Bash Here \
 
-// Dalam Git Bash
-git init
-git remote add origin https://github.com/SI-Kelas-D-Tech-Open-Source/project_docs.git
-git checkout -b TulisNamaPanggilanPokonyaNamaPanggilan -> ini dia jadi nama branch yak
-git pull origin main
+// Dalam Git Bash \
+ git init
+ git remote add origin https://github.com/SI-Kelas-D-Tech-Open-Source/project_docs.git
+ git checkout -b TulisNamaPanggilanPokonyaNamaPanggilan -> ini dia jadi nama branch yak
+ git pull origin main
 
 #Git akan menarik folder yang ada di Github
 #Setelah ditarik, akan muncul folder Diagram dan Figma
