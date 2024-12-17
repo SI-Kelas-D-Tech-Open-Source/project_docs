@@ -7,13 +7,13 @@ git remote add origin https://github.com/SI-Kelas-D-Tech-Open-Source/project_doc
 git checkout -b TulisNamaPanggilanPokonyaNamaPanggilan -> ini dia jadi nama branch yak
 git pull origin main
 
-# Git akan menarik folder yang ada di Github
-# Setelah ditarik, akan muncul folder Diagram dan Figma
+#Git akan menarik folder yang ada di Github
+#Setelah ditarik, akan muncul folder Diagram dan Figma
 
 // Didalam folder 
-# Modifikasi folder, taruh gambar diagram di dalam folder Diagram sesuai yang dibuat
-# Hanya tambah, jangan hapus
-# Taruh File figma kumpulan halaman di dalam folder Figma
+#Modifikasi folder, taruh gambar diagram di dalam folder Diagram sesuai yang dibuat
+#Hanya tambah, jangan hapus
+#Taruh File figma kumpulan halaman di dalam folder Figma
 
 // Dalam Git Bash
 git add .
